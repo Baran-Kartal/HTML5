@@ -3,3 +3,8 @@
 3- Auto Rename Tag: Bir HTML etiketini yeniden adlandırdığınızda eşleşen kapanış etiketini otomatik olarak günceller.
 4- Auto Close Tag: Bir HTML etiketi yazdığınızda otomatik olarak kapanış etiketini ekler.
 5- Prettier: HTML ve diğer kodları otomatik olarak biçimlendirir ve düzenler.
+6- HTML CSS Support: HTML içinde CSS sınıf ve ID  önerileri sunar ve CSS  dosylarınıza  kolayca bağlantı eklemenizi sağlar.
+7- HTML to CSS Autocompletion: CSS dosylarında HTML etiketlerine otomatik tamamlama önerileri sunar.
+8- HTML Snippets: Hızlıca HTML kodlarınızı oluşturmanız için kullanışlı kısayollar sunar.
+9- HTML Hint: HTML kodunuzu denetler ve hataları veya stil kılavuzu ihlallerini gösterir
+10- HTML Boilerplate: HTML dosyalarımızı başlatmak için temel bir şablona sahip olmamızı sağlar
