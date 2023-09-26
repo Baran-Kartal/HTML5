@@ -1,0 +1,3 @@
+XMLHttpRequest (XHR), aslında JavaScript ile sunulmuş bir UPA'dır. 
+
+Web sitesinin eş zamanlı olarak arka planda çalışan olaylarını takip eder. XML CSS ve JavaScript ile sonucun anında görülmesini sağlar.
