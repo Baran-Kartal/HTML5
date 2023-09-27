@@ -1,0 +1,6 @@
+Bir bilgisayar veya ağda, belirli bir kullanıcının veya uygulamanın, belirli bir süre boyunca açık olan ve birbirleri arasında belirli bir bağlantıyı sürdüren bir seri etkileşimdir.
+İşlem yapılırken, kullanıcının veya uygulamanın kimliği doğrulanır ve bir oturum açılır.
+
+Bu oturum, işlem tamamlanana kadar devam eder ve işlem tamamlandığında oturum sona erer.
+İnternet tarayıcısı oturumları gibi kullanıcı oturumları da mevcuttur.
+Bir kullanıcı oturumu, bir web sitesine giriş yaparken belirtilen kimlik doğrulama bilgilerinin yanı sıra, kullanıcının web sitesi ile olan etkileşimleri sırasında da devam eder. 
