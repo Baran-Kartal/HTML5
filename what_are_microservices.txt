@@ -1,0 +1,5 @@
+Mikroservis sadece bir işi yapan, bir fonksiyonaliteyi gerçekleştiren çok küçük kod parçacıkları. Geliştirme süreçleri, bağımlılıkları, boyutları olabildiğince küçük olan atomik servislerdir.
+
+Bu servisler herhangi bir dil ile geliştirilebilir. java, c#, ruby, phyton vb. diller kullanarak geliştirme yapabilirsiniz.
+
+Microservisler stateless’dir. Herhangi bir nesnenin state’ini tutmaz.
