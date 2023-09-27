@@ -1,0 +1,4 @@
+Authorization, bir kullanıcının belirli bir kaynağa (sistem, dosya, klasör, web sayfası vb.) erişebilmesi için gerekli izinlerin tanımlandığı süreçtir.
+Kullanıcının kimliği doğrulandıktan sonra, authorization adı verilen bu süreçte, kullanıcının erişebileceği kaynaklar ve bu kaynaklarda hangi işlemleri yapabileceği belirlenir.
+Bu işlem sonucunda, kullanıcının erişebileceği kaynaklar ve bu kaynaklarda yapabileceği işlemler belirlenir.
+Bu sayede, kaynakların güvenliği ve gizliliği korunmuş olur.
