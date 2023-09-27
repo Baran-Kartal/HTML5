@@ -1,0 +1,8 @@
+İnternette gezinirken ziyaret ettiğiniz web sayfaları, bilgisayarınıza ve telefonunuza küçük bilgi dosyaları kaydeder.
+Bu dosyalar telefon veya bilgisayarınızın hafızasında saklanır.
+Daha sonra aynı siteleri ziyaret ettiğinizde bu kayıtlı bilgi dosyaları sayesinde siteler sizi tanıyabilir.
+Çerezlerin işlevleri genelde bu yöndedir.
+Bilgileriniz bu dosyalara yazıldığından dolayı tekrar aynı web sayfalarını ziyaret ettiğinizde bilgilerinizi yeniden girmeye gerek duymazsınız.
+şte bu kayıtlı bilgi dosyalarına cookie denir. Türkçede karşılığı ise çerez olarak adlandırılır.
+Çerezlerin işlevleri, kullanıcıyı web sitesine hatırlatmaktır.
+Çerezlerin işlevleri doğru kullanıldığında kullanıcı deneyimi kaliteli hale gelir.
