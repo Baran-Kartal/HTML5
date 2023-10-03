@@ -1,0 +1,38 @@
+90<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <p><strong>Aldıkları puanlar:</strong></p>
+    <p><label for="bulent">Bülent:</label>
+    <meter id="bulent" min="0" low="40" high="90" max="100" value="55"></meter><span id="not1">90</span><button onclick="aztikla('bulent','not1');">-</button><button onclick="coktikla('bulent','not1');">+</button></p>
+    <p>Renk seçin: <input type="color" name="renk1"></p>
+    <p><label for="umit">Ümit:</label>
+    <meter id="umit" min="0" low="40" high="90" max="100" value="100"></meter><span id="not2">90</span><button onclick="aztikla('umit','not2');">-</button><button onclick="coktikla('umit','not2');">+</button></p>
+    <p>Renk seçin: <input type="color" name="renk1"></p>
+    <p><label for="fatih">Fatih:</label>
+    <meter id="fatih"min="0" low="40" high="90" max="100" value="70"></meter><span id="not3">90</span><button onclick="aztikla('fatih','not3');">-</button><button onclick="coktikla('fatih','not3');">+</button></p>
+    <p>Renk seçin: <input type="color" name="renk1"></p>
+    <p><label for="selcuk">Selçuk:</label>
+    <meter id="selcuk" min="0" low="40" high="90" max="100" value="90"></meter><span id="not4">90</span><button onclick="aztikla('selcuk','not4');">-</button><button onclick="coktikla('selcuk','not4');">+</button></p>
+    <p>Renk seçin: <input type="color" name="renk1"></p>
+
+    <script>
+        function aztikla(incomId,incomNot){
+            document.getElementById(incomNot).style.color='#aa1212'
+            document.getElementById(incomId).value=document.getElementById(incomId).value-1;
+            document.getElementById(incomNot).innerText=document.getElementById(incomId).value;
+        }
+
+        function coktikla(incomId,incomNot){
+            document.getElementById(incomNot).style.color='#a2a2a9'
+            document.getElementById(incomId).value=document.getElementById(incomId).value+1;
+            document.getElementById(incomNot).innerText=document.getElementById(incomId).value;
+        }
+
+    </script>
+</body>
+</html>
